@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.757fdb17.chunk.css",
+    "main.js": "/portfolio/static/js/main.725790fd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.725790fd.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.1e4a2dbe.chunk.js": "/portfolio/static/js/2.1e4a2dbe.chunk.js",
+    "static/js/2.1e4a2dbe.chunk.js.map": "/portfolio/static/js/2.1e4a2dbe.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.764a32a6d7f6a210c28a08865e8c634c.js": "/portfolio/precache-manifest.764a32a6d7f6a210c28a08865e8c634c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.757fdb17.chunk.css.map": "/portfolio/static/css/main.757fdb17.chunk.css.map",
+    "static/media/CareMate_Final_New.mp4": "/portfolio/static/media/CareMate_Final_New.e20c226d.mp4",
+    "static/media/SpeechRecognizerMASV.mp4": "/portfolio/static/media/SpeechRecognizerMASV.319566e9.mp4",
+    "static/media/email.svg": "/portfolio/static/media/email.c764a440.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.d1761ff7.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.f0fa873b.svg",
+    "static/media/passport_application.mov": "/portfolio/static/media/passport_application.fdcbc741.mov",
+    "static/media/phone.svg": "/portfolio/static/media/phone.dff99854.svg"
+  }
+}
